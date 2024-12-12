@@ -1,0 +1,17 @@
+E:\typeOFlanguage\c#\traficLight\traficLight\bin\Debug\net8.0-windows\traficLight.exe
+E:\typeOFlanguage\c#\traficLight\traficLight\bin\Debug\net8.0-windows\traficLight.deps.json
+E:\typeOFlanguage\c#\traficLight\traficLight\bin\Debug\net8.0-windows\traficLight.runtimeconfig.json
+E:\typeOFlanguage\c#\traficLight\traficLight\bin\Debug\net8.0-windows\traficLight.dll
+E:\typeOFlanguage\c#\traficLight\traficLight\bin\Debug\net8.0-windows\traficLight.pdb
+E:\typeOFlanguage\c#\traficLight\traficLight\obj\Debug\net8.0-windows\traficLight.Form1.resources
+E:\typeOFlanguage\c#\traficLight\traficLight\obj\Debug\net8.0-windows\traficLight.Properties.Resources.resources
+E:\typeOFlanguage\c#\traficLight\traficLight\obj\Debug\net8.0-windows\traficLight.csproj.GenerateResource.cache
+E:\typeOFlanguage\c#\traficLight\traficLight\obj\Debug\net8.0-windows\traficLight.GeneratedMSBuildEditorConfig.editorconfig
+E:\typeOFlanguage\c#\traficLight\traficLight\obj\Debug\net8.0-windows\traficLight.AssemblyInfoInputs.cache
+E:\typeOFlanguage\c#\traficLight\traficLight\obj\Debug\net8.0-windows\traficLight.AssemblyInfo.cs
+E:\typeOFlanguage\c#\traficLight\traficLight\obj\Debug\net8.0-windows\traficLight.csproj.CoreCompileInputs.cache
+E:\typeOFlanguage\c#\traficLight\traficLight\obj\Debug\net8.0-windows\traficLight.dll
+E:\typeOFlanguage\c#\traficLight\traficLight\obj\Debug\net8.0-windows\refint\traficLight.dll
+E:\typeOFlanguage\c#\traficLight\traficLight\obj\Debug\net8.0-windows\traficLight.pdb
+E:\typeOFlanguage\c#\traficLight\traficLight\obj\Debug\net8.0-windows\traficLight.genruntimeconfig.cache
+E:\typeOFlanguage\c#\traficLight\traficLight\obj\Debug\net8.0-windows\ref\traficLight.dll

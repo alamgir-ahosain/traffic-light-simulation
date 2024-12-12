@@ -1,0 +1,1 @@
+*.exe\n*.dll\n*.obj\n*.user\nbin/\ndebug/\nRelease/
